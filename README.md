@@ -25,7 +25,17 @@ Emotion and Gesture Detection using Python is a deep learning-based application 
    ```python
    pip install -r requirements.txt
    ```
+## Usage
 
+Once you have installed the necessary dependencies, you can start using the model for emotion and gesture detection.
+
+### Run Emotion Detection
+
+To detect emotions in an image or video, use the following command:
+
+```bash
+python emotion_detection.py 
+```
 ## Dataset
 This project uses various datasets for emotion and gesture recognition, including:
 
