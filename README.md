@@ -34,7 +34,7 @@ Once you have installed the necessary dependencies, you can start using the mode
 To detect emotions in an image or video, use the following command:
 
 ```bash
-python emotion_detection.py 
+python main.py 
 ```
 ## Dataset
 This project uses various datasets for emotion and gesture recognition, including:
