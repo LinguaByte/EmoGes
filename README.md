@@ -17,8 +17,11 @@ Emotion and Gesture Detection using Python is a deep learning-based application 
 
 ## Downloads
 1. Set up a Virtual Environment (optional but recommended).
-2. Install the required dependencies:
-   pip install -r requirements.txt
+   - python -m venv venv
+   - venv\Scripts\activate
+3. Install the required dependencies:
+   - pip install -r requirements.txt
+
 ## Dataset
 This project uses various datasets for emotion and gesture recognition, including:
 
@@ -27,3 +30,4 @@ FER-2013: A popular facial expression dataset containing over 35,000 labeled ima
 Gesture Recognition Dataset: A set of hand gesture images or videos used for gesture classification (could be custom or public dataset).
 
 You can download the datasets or use your own by placing them in the respective folder in the project structure.
+
