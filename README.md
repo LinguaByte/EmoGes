@@ -17,10 +17,14 @@ Emotion and Gesture Detection using Python is a deep learning-based application 
 
 ## Downloads
 1. Set up a Virtual Environment (optional but recommended).
-   - python -m venv venv
-   - venv\Scripts\activate
+   ```python
+   python -m venv venv
+   venv\Scripts\activate
+   ```
 3. Install the required dependencies:
-   - pip install -r requirements.txt
+   ```python
+   pip install -r requirements.txt
+   ```
 
 ## Dataset
 This project uses various datasets for emotion and gesture recognition, including:
