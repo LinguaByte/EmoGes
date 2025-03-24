@@ -36,6 +36,7 @@ To detect emotions in an image or video, use the following command:
 ```bash
 python main.py 
 ```
+
 ## Dataset
 This project uses various datasets for emotion and gesture recognition, including:
 
