@@ -61,9 +61,7 @@ You can download the datasets or use your own by placing them in the respective 
 - Numpy
 - Matplotlib
 - Scikit-learn
-- Pillow
 - Pandas
 - Dlib (for facial landmark detection)
 - H5py (for handling model weights)
-- Other dependencies (listed in `requirements.txt`)
 
