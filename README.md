@@ -11,7 +11,6 @@ This repository contains a Python-based project for emotion and gesture detectio
 - [Models](#models)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Emotion and Gesture Detection using Python is a deep learning-based application that can classify human emotions and gestures in real-time through image or video input. This project uses various machine learning techniques, including Convolutional Neural Networks (CNNs), to recognize emotions and gestures from facial expressions or body movements.
