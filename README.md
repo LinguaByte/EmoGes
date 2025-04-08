@@ -10,9 +10,7 @@ This repository contains a Python-based project for emotion and gesture detectio
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Required Python Packages](#Required-Python-Packages)
-- [Models](#models)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
+
 
 ## Aim of the Project
 
